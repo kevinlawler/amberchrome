@@ -215,7 +215,7 @@ let g:amberchome_passed_from_green = get(g:, 'amberchome_passed_from_green', v:f
 
 if g:amberchome_passed_from_green
   " [GREEN]
-  let s:light = "#5fff5f" " main green light. alternatively, 70ff70
+  let s:light = "#5fff5f" " main green light. alternatively, 70ff70, 67cc75
   let s:dark  = "#282828" " main green dark
 
   let s:clight =  "83" " options are 83 #5fff5f and 120 #87ff87
